@@ -1,4 +1,8 @@
-#Questions=>
+#Questions=>https://www.testdome.com/questions/python-data-science/marketing-costs/41455?visibility=1&skillId=839
+#Implement the desired_marketing_expenditure function, which returns the required amount of money that needs to be invested in a new marketing campaign to sell the desired number of units.
+#Use the data from previous marketing campaigns to evaluate how the number of units sold grows linearly as the amount of money invested increases.
+#For example, for the desired number of 60,000 units sold and previous campaign data from the table below, the function should return the float 250,000.
+
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
